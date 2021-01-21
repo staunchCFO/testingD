@@ -508,6 +508,17 @@ header button a:hover{
 
 
 /*- ================================ballons section======================== */
+.flex1{
+  display:flex;
+}
+
+.flexx{
+  background-image: url(../assets/images/futurelearn/images/tab-gal.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:50% 50%;
+    padding-bottom: 30%;
+}
 .ballons-section{
   padding: 6rem 5rem;
 }
