@@ -1,11 +1,11 @@
 On your new assignment,
 * You are to create a new Website, it could be anyone one of your choice, individually, using HTML,CSS,Bootstrap, also this website should
   be mobile friendly.
-* For every section of the website you are woeking on, create a new branch, and pushing the branch belonging to that section
+* For every section of the website you are working on, create a new branch, and push the branch belonging to that section
     to the new GitHub repo you must have created already.
 
 * If your website has 5 different section, you should create 5 different branches and push each one to your remote repo, also
-    endeavour to make sure the website is multiple page.
+    endeavour to make sure the website has multi page.
 
 This assignment is to be submitted to your GitHub repo on or before Saturday for reviews. For any question you can contact
 me through 09066829042.
